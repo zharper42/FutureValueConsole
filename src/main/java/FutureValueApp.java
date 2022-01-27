@@ -40,6 +40,7 @@ public class FutureValueApp
             System.out.print("Continue? (y/n): ");
             choice = sc.next();
             System.out.println();
+            System.out.println("Hello");
         }
     }
     private static double calculateFutureValue (double monthlyInvestment,
